@@ -1,4 +1,0 @@
-python-binance
-python-telegram-bot==20.6
-pandas
-ta
